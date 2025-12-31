@@ -1,0 +1,14 @@
+@font-face {
+  font-family: JetBrains;
+  src: url('../fonts/jetbrains-mono/static/JetBrainsMono-Regular.ttf')
+}
+
+h1,
+h2,
+h3,
+h4,
+h6,
+li,
+p {
+  font-family: JetBrains;
+}
